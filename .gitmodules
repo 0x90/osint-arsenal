@@ -1,0 +1,210 @@
+[submodule "Keyring"]
+	path = Keyring
+	url = https://github.com/Mili-NT/Keyring
+[submodule "gitGraber"]
+	path = gitGraber
+	url = https://github.com/hisxo/gitGraber
+[submodule "ODIN"]
+	path = ODIN
+	url = https://github.com/chrismaddalena/ODIN
+[submodule "OSINT-Collection"]
+	path = OSINT-Collection
+	url = https://github.com/Ph055a/OSINT-Collection
+[submodule "Belati"]
+	path = Belati
+	url = https://github.com/aancw/Belati
+[submodule "qq_group"]
+	path = qq_group
+	url = https://github.com/1ocalhost/qq_group
+[submodule "seemnemaailm-leak-analysis"]
+	path = seemnemaailm-leak-analysis
+	url = https://github.com/Lauriy/seemnemaailm-leak-analysis
+[submodule "leaks_analysis"]
+	path = leaks_analysis
+	url = https://github.com/mandyreal/leaks_analysis
+[submodule "secret-leak-prevention-demo"]
+	path = secret-leak-prevention-demo
+	url = https://github.com/mbacchi/secret-leak-prevention-demo
+[submodule "FileScan"]
+	path = FileScan
+	url = https://github.com/crhua/FileScan
+[submodule "Git_Leak_Checker"]
+	path = Git_Leak_Checker
+	url = https://github.com/InfoSecRavindra/Git_Leak_Checker
+[submodule "gmail-leak-test-python"]
+	path = gmail-leak-test-python
+	url = https://github.com/blacknbunny/gmail-leak-test-python
+[submodule "GithubLeakAlert"]
+	path = GithubLeakAlert
+	url = https://github.com/misterch0c/GithubLeakAlert
+[submodule "leaks_parser"]
+	path = leaks_parser
+	url = https://github.com/p3pperp0tts/leaks_parser
+[submodule "radiocarbon"]
+	path = radiocarbon
+	url = https://github.com/Neo23x0/radiocarbon
+[submodule "Cr3dOv3r"]
+	path = Cr3dOv3r
+	url = https://github.com/D4Vinci/Cr3dOv3r
+[submodule "secret-bridge"]
+	path = secret-bridge
+	url = https://github.com/duo-labs/secret-bridge
+[submodule "LeakedDBParser"]
+	path = LeakedDBParser
+	url = https://github.com/hegusung/LeakedDBParser
+[submodule "SourceLeakHacker"]
+	path = SourceLeakHacker
+	url = https://github.com/WangYihang/SourceLeakHacker
+[submodule "GitHacker"]
+	path = GitHacker
+	url = https://github.com/WangYihang/GitHacker
+[submodule "gitleak"]
+	path = gitleak
+	url = https://github.com/lfzark/gitleak
+[submodule "Breach-Miner"]
+	path = Breach-Miner
+	url = https://github.com/secworld/Breach-Miner
+[submodule "Apple-ID-Data-Leak"]
+	path = Apple-ID-Data-Leak
+	url = https://github.com/zaytoun/Apple-ID-Data-Leak
+[submodule "arxiv_leaks"]
+	path = arxiv_leaks
+	url = https://github.com/soskek/arxiv_leaks
+[submodule "fav-up"]
+	path = fav-up
+	url = https://github.com/pielco11/fav-up
+[submodule "email2phonenumber"]
+	path = email2phonenumber
+	url = https://github.com/martinvigo/email2phonenumber
+[submodule "karma"]
+	path = karma
+	url = https://github.com/decoxviii/karma
+[submodule "EMAGNET"]
+	path = EMAGNET
+	url = https://github.com/wuseman/EMAGNET
+[submodule "LeakLooker"]
+	path = LeakLooker
+	url = https://github.com/woj-ciech/LeakLooker
+[submodule "LeakTracer"]
+	path = LeakTracer
+	url = https://github.com/fredericgermain/LeakTracer
+[submodule "pwndb"]
+	path = pwndb
+	url = https://github.com/davidtavarez/pwndb
+[submodule "shhgit"]
+	path = shhgit
+	url = https://github.com/eth0izzle/shhgit
+[submodule "GitGot"]
+	path = GitGot
+	url = https://github.com/BishopFox/GitGot
+[submodule "h8mail"]
+	path = h8mail
+	url = https://github.com/khast3x/h8mail
+[submodule "Awesome-Asset-Discovery"]
+	path = Awesome-Asset-Discovery
+	url = https://github.com/redhuntlabs/Awesome-Asset-Discovery
+[submodule "AutOSINT"]
+	path = AutOSINT
+	url = https://github.com/bharshbarger/AutOSINT
+[submodule "repo-scraper"]
+	path = repo-scraper
+	url = https://github.com/dssg/repo-scraper
+[submodule "git-hound"]
+	path = git-hound
+	url = https://github.com/tillson/git-hound
+[submodule "leakScraper"]
+	path = leakScraper
+	url = https://github.com/Acceis/leakScraper
+[submodule "Mimir"]
+	path = Mimir
+	url = https://github.com/NullArray/Mimir
+[submodule "reconspider"]
+	path = reconspider
+	url = https://github.com/bhavsec/reconspider
+[submodule "gitem"]
+	path = gitem
+	url = https://github.com/mschwager/gitem
+[submodule "HostHunter"]
+	path = HostHunter
+	url = https://github.com/SpiderLabs/HostHunter
+[submodule "socialscan"]
+	path = socialscan
+	url = https://github.com/iojw/socialscan
+[submodule "aiodnsbrute"]
+	path = aiodnsbrute
+	url = https://github.com/blark/aiodnsbrute
+[submodule "InstagramOSINT"]
+	path = InstagramOSINT
+	url = https://github.com/sc1341/InstagramOSINT
+[submodule "xray"]
+	path = xray
+	url = https://github.com/evilsocket/xray
+[submodule "aleph"]
+	path = aleph
+	url = https://github.com/alephdata/aleph
+[submodule "pwnedOrNot"]
+	path = pwnedOrNot
+	url = https://github.com/thewhiteh4t/pwnedOrNot
+[submodule "spiderfoot"]
+	path = spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "twint"]
+	path = twint
+	url = https://github.com/twintproject/twint
+[submodule "trape"]
+	path = trape
+	url = https://github.com/jofpin/trape
+[submodule "sniff-paste"]
+	path = sniff-paste
+	url = https://github.com/needmorecowbell/sniff-paste
+[submodule "Zen"]
+	path = Zen
+	url = https://github.com/s0md3v/Zen
+[submodule "gasmask"]
+	path = gasmask
+	url = https://github.com/twelvesec/gasmask
+[submodule "censys-subdomain-finder"]
+	path = censys-subdomain-finder
+	url = https://github.com/christophetd/censys-subdomain-finder
+[submodule "linkedin2username"]
+	path = linkedin2username
+	url = https://github.com/initstring/linkedin2username
+[submodule "dnstwist"]
+	path = dnstwist
+	url = https://github.com/elceef/dnstwist
+[submodule "theHarvester"]
+	path = theHarvester
+	url = https://github.com/laramies/theHarvester
+[submodule "awesome-osint"]
+	path = awesome-osint
+	url = https://github.com/jivoi/awesome-osint
+[submodule "Photon"]
+	path = Photon
+	url = https://github.com/s0md3v/Photon
+[submodule "PwnBack"]
+	path = PwnBack
+	url = https://github.com/P3GLEG/PwnBack
+[submodule "Digital-Privacy"]
+	path = Digital-Privacy
+	url = https://github.com/No-Github/Digital-Privacy
+[submodule "data_toolkit"]
+	path = data_toolkit
+	url = https://github.com/nand2xor/data_toolkit
+[submodule "Osint-Resources"]
+	path = Osint-Resources
+	url = https://github.com/OldBonhart/Osint-Resources
+[submodule "wuseman-EMAGNET"]
+	path = wuseman-EMAGNET
+	url = https://github.com/ookk2011/wuseman-EMAGNET
+[submodule "TenMillionPasswords"]
+	path = TenMillionPasswords
+	url = https://github.com/theriley106/TenMillionPasswords
+[submodule "ipfs"]
+	path = ipfs
+	url = https://github.com/cryptodashie/ipfs
+[submodule "openfintech-docs"]
+	path = openfintech-docs
+	url = https://github.com/paycoreio/openfintech-docs
+[submodule "serializ3r"]
+	path = serializ3r
+	url = https://github.com/HyperionGray/serializ3r
