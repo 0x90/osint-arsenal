@@ -208,3 +208,9 @@
 [submodule "serializ3r"]
 	path = serializ3r
 	url = https://github.com/HyperionGray/serializ3r
+[submodule "sherlock"]
+	path = sherlock
+	url = https://github.com/sherlock-project/sherlock
+[submodule "AIL-framework"]
+	path = AIL-framework
+	url = https://github.com/CIRCL/AIL-framework
