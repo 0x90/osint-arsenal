@@ -1,8 +1,8 @@
-# osint-arsenal
+# OSINT arsenal
 
-OSINT tools and scripts
+OSINT tools and scripts.
 
-# Пробив информации. Osint-ресурсы.
+Пробив информации. OSINT инструменты и ресурсы.
 
 **Поиск По Фотографиям**     
   
