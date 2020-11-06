@@ -269,6 +269,12 @@ OSINT tools and scripts
 
 **Сайты-Агрегаторы Утечек**     
 
+*    [https://xss.is/](https://xss.is/)
+
+
+*    [https://raidforums.com/index.php](https://raidforums.com/index.php)
+
+
 *    [https://danwin1210.me/uploads/](https://danwin1210.me/uploads/)   
       
     
